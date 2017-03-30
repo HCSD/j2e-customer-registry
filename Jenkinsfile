@@ -13,7 +13,7 @@ node {
         withMaven(
             maven: 'maven',
             mavenSettingsConfig: 'maven'){
-            sh 'mvn clean package deploy:deploy'
+            sh 'mvn -DskipTests clean package deploy:deploy'
         }
     }
 }

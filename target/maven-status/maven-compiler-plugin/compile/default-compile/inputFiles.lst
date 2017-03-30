@@ -1,0 +1,7 @@
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/managed/Signal.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/utils/Database.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/managed/CustomerBean.java
+/home/loick/projects/scyther/j2e/customer-registry/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java

@@ -10,7 +10,9 @@ node {
     }
 
     stage("Deploying to artifactory") {
-        withMaven(maven: 'maven'){
+        withMaven(
+            maven: 'maven',
+            mavenSettingsConfig: 'maven'){
             sh 'mvn clean package deploy:deploy'
         }
     }
